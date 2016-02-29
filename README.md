@@ -167,16 +167,11 @@ Build a camera app.
 
 ## Reach me ##
 
-Twitter: [@creativewang](https://twitter.com/creativewang)
+Twitter: [@creativewang](https://twitter.com/pavangandhi10)
 
-Instagram: [@alllllllllen](https://www.instagram.com/allllllllllen/)
+Facebook: [Allen Wang](https://www.facebook.com/pavangandhi27)
 
-Dribbble: [Allen Wang](https://dribbble.com/openallen)
+Email : pavangandhi10@gmail.com
 
-Weibo: [@Allen朝辉](http://weibo.com/wangchaohui)
-
-Facebook: [Allen Wang](https://www.facebook.com/openallen)
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/allenwong/30daysofswift/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Linkedin : https://www.linkedin.com/in/pavangandhi10
 
